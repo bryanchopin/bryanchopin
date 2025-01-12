@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Mapaton](https://mapaton.org/)
 
-- 💬 Ask me about **Músic, JS and CSS**
+- 💬 Ask me about **Music, JS and CSS**
 
 - 📫 How to reach me **coo.ti@ibfk.edu.mx**
 
