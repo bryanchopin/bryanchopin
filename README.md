@@ -1,6 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/63c67731bc698858a1f59e0e/75c9453b-2ab5-404b-9a8e-aa32ebc7a534/Compu+movil+Angosto.jpg)](https://www.google.com.)
-<h1 align="center">Hi 👋, I'm bryan(brychxpin)</h1>
-<h3 align="center">I am a web developer passionate about music and art. I currently work as an IT Coo and teacher, but my main branch is programming. I am the founder of EduDev TJ, a community focused on being able to provide knowledge and tools to be able to start in the world of programming, we are currently helping public and private schools. I really appreciate the daily knowledge ❤️</h3>
+<h1 align="center">Hello , I'm Bryan (brychxpin)</h1>
+<h3 align="center">I'm a web developer with a passion for music and art. While I currently hold roles as an IT COO and educator, my primary focus remains on programming.</h3>
+<h3 align="center">As the founder of Connectados, I lead a community dedicated to providing accessible knowledge and resources for those entering the world of programming. We're actively involved in supporting both public and private schools. I deeply value the continuous learning process. ❤️</h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
